@@ -1,1 +1,1 @@
-![Deploy](https://github.com/vaverina-32/site/actions/workflows/deploy.yml/badge.svg)
+![Deploy](https://github.com/vaverina32-ai/site/actions/workflows/deploy.yml/badge.svg)
